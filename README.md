@@ -1,5 +1,5 @@
 # Cms_by_state
-Simple R Project to take BigQuery public data about CMS (Centers for Medicaid &amp; Medicare Service) outpatient expenses per state in the USA.
+Simple R Project to take BigQuery public data about CMS (Centers for Medicaid &amp; Medicare Service) outpatient expenses per state in the USA and visualize it using an interactive map.
 
 ## Data Used
 This project uses BigQuery public Medicare data for Outpatient Treatment Costs.
